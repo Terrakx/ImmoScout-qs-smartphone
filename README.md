@@ -23,3 +23,32 @@ Additions to fxmanifest.lua:<br>
     'html/img/custom/*.png',<br>
     'html/img/custom/shells/*.png',<br>
 
+Don't forget to add it to your config.lua - e.g.:
+
+    ["hustlerimmo"] = {
+        custom = true,
+        app = "hustlerimmo",
+        color = "img/apps/immoscout24.png",
+        tooltipText = "ImmoScout24",
+        tooltipPos = "top",
+        job = false,
+        blockedjobs = {},
+        slot = 44,
+        creator = "anda.",
+        Alerts = 0,
+        password = false,
+        isGame = false,
+        description = "buy and manage real-estate",
+        score = "5", -- Options: 0, 0.25, 0.5, 0.75, 1, 1.25, 1.50, 1.75, 2, 2.25, 2.50, 2.75, 3, 3.25, 3.50, 3.75, 4, 4.25, 4.50, 4.75, 5
+        rating = " 332 Ratings",
+        age = "18+",
+        extraDescription = {
+            {
+                header = "Immoscout24",
+                head = "Immoscout24!",
+                image = "https://i.imgur.com/ENBVOUI.png",--You may want to change this
+                footer = "buy and manage real-estate.",
+                textcolor = 'black'
+            }
+        }
+    },
