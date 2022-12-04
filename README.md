@@ -1,6 +1,6 @@
 # ImmoScout-qs-smartphone - Requires working QB-Houses
 
-https://streamable.com/4camzi
+<video src='https://streamable.com/4camzi' width=720/>
 
 <p>All unowned houses are listed in the first tab, all owned houses by the players are listed in the second tab</p>
 <p>Houses are sorted by distance to player (nearest first)</p>
