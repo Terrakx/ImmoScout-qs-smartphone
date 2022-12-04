@@ -23,7 +23,7 @@ Additions to fxmanifest.lua:<br>
     'html/img/custom/*.png',<br>
     'html/img/custom/shells/*.png',<br>
 
-Don't forget to add it to your config.lua - e.g.:
+Don't forget to add the app to your config.lua - e.g.:
 
     ["hustlerimmo"] = {
         custom = true,
