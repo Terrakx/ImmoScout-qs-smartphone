@@ -52,3 +52,10 @@ Don't forget to add the app to your config.lua - e.g.:
             }
         }
     },
+
+To have a working homebar  you need to add the apps name in [smartphone]\qs-smartphone\config\config_javascript.js:
+
+    "hustlerimmo": {
+        "top": "#000000",
+        "bottom": "#000000"
+    },
