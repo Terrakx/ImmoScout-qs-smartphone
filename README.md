@@ -7,7 +7,7 @@ Find unowned real estate and manage your bought houses
 ![screen_owned](https://user-images.githubusercontent.com/28263145/205501995-c905c14e-2c72-4e7e-82f3-8b1f85e3a957.png)
 
 Installing:
-customAppRun.js   ->  [smartphone]\qs-smartphone\html\apps
+customAppRun.js   ->  [smartphone]\qs-smartphone\html\apps<br>
 hustlerimmo.html  ->  [smartphone]\qs-smartphone\html\apps
 hustlerimmo.lua   ->  [smartphone]\qs-smartphone\client\apps
 hustlerimmo.lua   ->  [smartphone]\qs-smartphone\server\apps
