@@ -1,6 +1,5 @@
 # ImmoScout-qs-smartphone - Requires working QB-Houses
 
-Find unowned real estate and manage your bought houses
 
 <p>All unowned houses are listed in the first tab, all owned houses by the players are listed in the second tab</p>
 <p>Houses are sorted by distance to player (nearest first)</p>
