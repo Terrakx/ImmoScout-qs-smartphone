@@ -2,7 +2,7 @@
 
 <p>Preview: https://streamable.com/4camzi</p>
 
-<p>All unowned houses are listed in the first tab, all owned houses by the players are listed in the second tab</p>
+<p>All data is pulled from houselocations and player_houses table. You still need to create the houses with qb-houses.</p>
 <p>Houses are sorted by distance to player (nearest first)</p>
 <p>Sample pictures are provided according to the house-tier (some tier pictures are currently replaced by a placeholder)</p>
 
