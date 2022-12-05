@@ -4,7 +4,7 @@
 
 <p>All unowned houses are listed in the first tab, all owned houses by the players are listed in the second tab</p>
 <p>Houses are sorted by distance to player (nearest first)</p>
-<p>Sample pictures are provided according to the house-tier (some tier pictures are currently replaced by a placeholder</p>
+<p>Sample pictures are provided according to the house-tier (some tier pictures are currently replaced by a placeholder)</p>
 
 ![screen_unowned](https://user-images.githubusercontent.com/28263145/205501994-8f5e4f26-21d7-43b8-9c5d-e196b8154c23.png)
 ![screen_owned](https://user-images.githubusercontent.com/28263145/205501995-c905c14e-2c72-4e7e-82f3-8b1f85e3a957.png)
