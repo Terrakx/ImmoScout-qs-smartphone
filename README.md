@@ -2,7 +2,7 @@
 
 <p>Preview: https://streamable.com/4camzi</p>
 
-<p>All data is pulled from houselocations and player_houses table. You still need to create the houses with qb-houses.</p>
+<p>All data is pulled from houselocations and player_houses table. <b>You still need to create the houses with qb-houses.</b></p>
 <p>Houses are sorted by distance to player (nearest first)</p>
 <p>Sample pictures are provided according to the house-tier (some tier pictures are currently replaced by a placeholder)</p>
 
