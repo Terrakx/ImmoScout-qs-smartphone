@@ -5,7 +5,7 @@ RegisterNUICallback('getHouses', function(data, cb)
     QBCore.Functions.TriggerCallback('phone:server:getHouses', function(data)
         for i=1,#data.all do
             GLOBAL_HOUSES[#GLOBAL_HOUSES+1] = data.all[i]
-            if data.all[i].owned=0 then
+              if data.all[i].owned == false then
                 houses[#houses+1] = {
                         label = data.all[i].label,
                         price = data.all[i].price,
